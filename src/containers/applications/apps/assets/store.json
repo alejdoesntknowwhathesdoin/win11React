@@ -137,7 +137,7 @@
   },
   {
     "name": "Nazi Zombies Portable",
-    "icon": "https://i.imgur.com/abc123.png",  // Placeholder; replace with real if found
+    "icon": "https://i.imgur.com/abc123.png",  
     "type": "game",
     "data": {
       "type": "IFrame",
@@ -154,7 +154,7 @@
   },
   {
     "name": "Station 141",
-    "icon": "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",  // From itch
+    "icon": "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",  
     "type": "game",
     "data": {
       "type": "IFrame",
