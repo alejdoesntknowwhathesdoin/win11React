@@ -1,0 +1,189 @@
+[
+  {
+    "name": "Calculator",
+    "icon": "https://raw.githubusercontent.com/win11react/store/main/store/icons/calculator.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://win11react.com/apps/calculator",
+      "gallery": [
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/calculator1.png",
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/calculator2.png",
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/calculator3.png"
+      ],
+      "desc": "Perform basic calculations.",
+      "feat": "Add, subtract, multiply, divide.\nScientific functions.\nHistory log.",
+      "invert": false
+    }
+  },
+  {
+    "name": "Notepad",
+    "icon": "https://raw.githubusercontent.com/win11react/store/main/store/icons/notepad.png",
+    "type": "app",
+    "data": {
+      "type": "IFrame",
+      "url": "https://win11react.com/apps/notepad",
+      "gallery": [
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/notepad1.png",
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/notepad2.png",
+        "https://raw.githubusercontent.com/win11react/store/main/store/gallery/notepad3.png"
+      ],
+      "desc": "A simple text editor.",
+      "feat": "Create and edit text files.\nBasic formatting.\nSave to local storage.",
+      "invert": false
+    }
+  },
+  {
+    "name": "WebFishing",
+    "icon": "https://img.itch.zone/aW1nLzE1MDk5NDY5LnBuZw==/original/4%2FzK%2F6/4zK6.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cdn.jsdelivr.net/gh/genizy/web-port@main/web-fishing/",
+      "gallery": [
+        "https://img.itch.zone/aW1nLzE1MDk5NDY5LnBuZw==/original/4%2FzK%2F6/4zK6.png",
+        "https://img.itch.zone/aW1hZ2UvMjAyMS8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",
+        "https://img.itch.zone/aW1hZ2UvMjAyMS8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png"
+      ],
+      "desc": "Relaxing fishing game in your browser.",
+      "feat": "Catch fish and upgrade gear.\nPeaceful pixel art.\nEndless replayability.",
+      "invert": false
+    }
+  },
+  {
+    "name": "Hollow Knight",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/9/93/Hollow_Knight_artwork.jpg",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cdn.jsdelivr.net/gh/web-ports/hollow-knight@latest/",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/en/9/93/Hollow_Knight_artwork.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1q0z.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1q0z.png"
+      ],
+      "desc": "Metroidvania adventure in a vast underground kingdom.",
+      "feat": "Explore and fight in hand-drawn world.\nDeep lore and bosses.\nWebGL port.",
+      "invert": true
+    }
+  },
+  {
+    "name": "Half-Life",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/5/5b/Half-Life_cover_art.jpg",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/UGS-Assets@354e3c6939a08e472482653567d566ba3a2aa527/half%20life/",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/en/5/5b/Half-Life_cover_art.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png"
+      ],
+      "desc": "Classic FPS where you fight aliens as Gordon Freeman.",
+      "feat": "Iconic story and weapons.\nBrowser-based Xash3D engine.\nMultiplayer support.",
+      "invert": false
+    }
+  },
+  {
+    "name": "BitLife",
+    "icon": "https://play-lh.googleusercontent.com/9x7oI3N3q9zZ1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cdn.jsdelivr.net/gh/a456pur/seraph@ae2fcc6d6a9cd051654fcc0519080db1f79cf2a7/games/bitlife/",
+      "gallery": [
+        "https://play-lh.googleusercontent.com/9x7oI3N3q9zZ1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z",
+        "https://play-lh.googleusercontent.com/9x7oI3N3q9zZ1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z",
+        "https://play-lh.googleusercontent.com/9x7oI3N3q9zZ1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z1z5Z"
+      ],
+      "desc": "Text-based life simulator from birth to death.",
+      "feat": "Make choices that shape your life.\nRandom events and careers.\nUnity WebGL port.",
+      "invert": false
+    }
+  },
+  {
+    "name": "Minecraft 1.12.2",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Minecraft_Logo.svg/1200px-Minecraft_Logo.svg.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://eaglercraft.com/mc/1.12.2/",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/en/thumb/1/1e/Minecraft_Logo.svg/1200px-Minecraft_Logo.svg.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png"
+      ],
+      "desc": "Browser-based Minecraft classic version.",
+      "feat": "Build, survive, and explore.\nSingle/multiplayer.\nEaglercraft port.",
+      "invert": false
+    }
+  },
+  {
+    "name": "1v1.LOL",
+    "icon": "https://1v1.lol/assets/images/logo.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://1v1.lol/",
+      "gallery": [
+        "https://1v1.lol/assets/images/logo.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png"
+      ],
+      "desc": "Fast-paced building and shooting battle royale.",
+      "feat": "Quick 1v1 matches.\nBuild and edit tools.\nUnity-based.",
+      "invert": false
+    }
+  },
+  {
+    "name": "Nazi Zombies Portable",
+    "icon": "https://i.imgur.com/5z0z0z0.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://rawcdn.githack.com/gn-math/assets/main/308/",
+      "gallery": [
+        "https://i.imgur.com/5z0z0z0.png",
+        "https://i.imgur.com/5z0z0z0.png",
+        "https://i.imgur.com/5z0z0z0.png"
+      ],
+      "desc": "Portable CoD Zombies mode in browser.",
+      "feat": "Survive waves of zombies.\nWeapon upgrades.\nQuake engine port.",
+      "invert": true
+    }
+  },
+  {
+    "name": "Station 141",
+    "icon": "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://rawcdn.githack.com/bubbls/UGS-Assets/60243fe19e191ac4fc09b71c48b965cf25f30f5c/station%20141/",
+      "gallery": [
+        "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",
+        "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png",
+        "https://img.itch.zone/aW1hZ2UvMjAyMy8wNy8yMS8xNjE2OTk5NjM5LnBuZw==/original/0%2F%2F%2F.png"
+      ],
+      "desc": "Sci-fi station management sim.",
+      "feat": "Build and defend your outpost.\nResource management.\nUnity WebGL.",
+      "invert": false
+    }
+  },
+  {
+    "name": "Fallout",
+    "icon": "https://upload.wikimedia.org/wikipedia/en/0/0b/Fallout_cover_art.jpg",
+    "type": "game",
+    "data": {
+      "type": "IFrame",
+      "url": "https://cdn.jsdelivr.net/gh/bubbls/dosbox/",
+      "gallery": [
+        "https://upload.wikimedia.org/wikipedia/en/0/0b/Fallout_cover_art.jpg",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png",
+        "https://images.igdb.com/igdb/image/upload/t_cover_big/co/1ovr.png"
+      ],
+      "desc": "Post-apocalyptic RPG classic.",
+      "feat": "Turn-based combat and choices.\nDOSBox emulation.\nExplore the wasteland.",
+      "invert": false
+    }
+  }
+]
