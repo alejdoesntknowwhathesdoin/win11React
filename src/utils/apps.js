@@ -295,6 +295,13 @@ const apps = [
     payload: "https://blueedge.me/unescape",
   },
   {
+  name: "Nazi Zombies Portable",
+  icon: "edge",
+  type: "app",
+  action: "MSEDGE",
+  payload: "https://cdn.jsdelivr.net/gh/n-101-1/1@main/2.7.js"
+},
+  {
     name: "Discord",
     icon: "discord",
     type: "app",
